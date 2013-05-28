@@ -1,0 +1,118 @@
+// !$*UTF8*$!
+{
+	6708F95C174CBE1F0010D69E /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 677136311750B01C0011404D /* Random */;
+		activeTarget = 6708F963174CBE1F0010D69E /* Random */;
+		codeSenseManager = 677136421750B0570011404D /* Code sense */;
+		executables = (
+			677136311750B01C0011404D /* Random */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 391163932;
+			PBXWorkspaceStateSaveDate = 391163932;
+		};
+		perUserProjectItems = {
+			677136471750B05C0011404D /* XCBuildMessageTextBookmark */ = 677136471750B05C0011404D /* XCBuildMessageTextBookmark */;
+			677136481750B05C0011404D /* PBXTextBookmark */ = 677136481750B05C0011404D /* PBXTextBookmark */;
+		};
+		sourceControlManager = 677136411750B0570011404D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	6708F963174CBE1F0010D69E /* Random */ = {
+		activeExec = 0;
+		executables = (
+			677136311750B01C0011404D /* Random */,
+		);
+	};
+	6708F979174CBE1F0010D69E /* RandomAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {453, 325}}";
+			sepNavSelRange = "{275, 0}";
+			sepNavVisRange = "{138, 347}";
+		};
+	};
+	677136311750B01C0011404D /* Random */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Random;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	677136411750B0570011404D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	677136421750B0570011404D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	677136471750B05C0011404D /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected a property attribute before 'weak'";
+		fRef = 6708F979174CBE1F0010D69E /* RandomAppDelegate.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 13;
+		rType = 1;
+	};
+	677136481750B05C0011404D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6708F979174CBE1F0010D69E /* RandomAppDelegate.h */;
+		name = "RandomAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 275;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+}

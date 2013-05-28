@@ -1,0 +1,239 @@
+TRandom
+v7
+r0
+t391163972.116226
+cCheck dependencies
+cProcessInfoPlistFile /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Info.plist Random/Random-Info.plist
+cProcessPCH /var/folders/7d/fngkm7xj5zl72pb182v27zs00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Random-Prefix-acrbroxtbirsarfqolchpvadeckx/Random-Prefix.pch.gch Random/Random-Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Random.build/Release/Random.build/Objects-normal/x86_64/main.o /Users/raccoony/work/cocoa_Random/Random/Random/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Random.build/Release/Random.build/Objects-normal/x86_64/RandomAppDelegate.o /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCopyStringsFile /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Resources/en.lproj/InfoPlist.strings Random/en.lproj/InfoPlist.strings
+cCpResource build/Release/Random.app/Contents/Resources/en.lproj/Credits.rtf Random/en.lproj/Credits.rtf
+cCompileXIB /Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/MainMenu.xib
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004D5A27900000000000003430
+t1297754000
+s13360
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Users/raccoony/work/cocoa_Random/Random/Random/Random-Prefix.pch
+c00000000519C869F000000000000008F
+t1369212575
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h
+c0000000051A00B400000000000000236
+t1369443136
+s566
+i<Cocoa/Cocoa.h>
+
+N/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m
+c0000000051A00B7100000000000005CC
+t1369443185
+s1484
+i"RandomAppDelegate.h"
+i<stdlib.h>
+
+N/Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/Credits.rtf
+c00000000519C869F00000000000001B4
+t1369212575
+s436
+
+N/Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/InfoPlist.strings
+c00000000519C869F000000000000002D
+t1369212575
+s45
+
+N/Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/MainMenu.xib
+c0000000051A07850000000000002FBFA
+t1369471056
+s195578
+
+N/Users/raccoony/work/cocoa_Random/Random/Random/main.m
+c00000000519C869F00000000000000F7
+t1369212575
+s247
+i<Cocoa/Cocoa.h>
+
+N/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Objects-normal/x86_64/Random.LinkFileList
+c0000000051A078C000000000000000E9
+t1369471168
+s233
+
+N/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Objects-normal/x86_64/RandomAppDelegate.o
+t2
+s0
+
+N/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Objects-normal/x86_64/main.o
+t1369471171
+s5072
+
+N/Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app
+t1369471168
+s102
+
+N/Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app.dSYM
+t2
+s0
+
+N/Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Info.plist
+t1369471168
+s1373
+
+N/Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/MacOS/Random
+t2
+s0
+
+N/Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/PkgInfo
+t1369471168
+s8
+
+N/Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Resources/en.lproj/Credits.rtf
+t1369471171
+s436
+
+N/Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1369471172
+s92
+
+N/Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Resources/en.lproj/MainMenu.nib
+t2
+s0
+
+N/var/folders/7d/fngkm7xj5zl72pb182v27zs00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Random-Prefix-acrbroxtbirsarfqolchpvadeckx/Random-Prefix.pch.gch
+t1369471171
+s52958992
+
+NRandom/Random-Info.plist
+c00000000519C869F0000000000000447
+t1369212575
+s1095
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies391163968#391163968#0(155"[WARN]Mac OS X deployment target '10.8' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.1(22@148"Mac OS X deployment target '10.8' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.391163968#18446744073709551615#0#0(1@0"0(0#1#0"17203519488#0"0#
+
+CCompileC build/Random.build/Release/Random.build/Objects-normal/x86_64/RandomAppDelegate.o /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s391163971.587736
+e391163971.758122
+r0
+xCompileC
+xbuild/Random.build/Release/Random.build/Objects-normal/x86_64/RandomAppDelegate.o
+x/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:9:
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h:14: error: expected a property attribute before 'weak'
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h:15: error: expected a property attribute before 'weak'
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h:16: error: expected a property attribute before 'weak'
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h:17: error: expected a property attribute before 'weak'
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:14: error: no declaration of property 'lowestNumber' found in the interface
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:15: error: no declaration of property 'highestNumber' found in the interface
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:16: error: no declaration of property 'textField' found in the interface
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:17: error: no declaration of property 'numberField' found in the interface
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m: In function '-[RandomAppDelegate generate:]':
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:27: error: '_highestNumber' undeclared (first use in this function)
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:27: error: (Each undeclared identifier is reported only once
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:27: error: for each function it appears in.)
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:28: error: '_lowestNumber' undeclared (first use in this function)
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:36: error: '_textField' undeclared (first use in this function)
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:38: error: '_numberField' undeclared (first use in this function)
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m: In function '-[RandomAppDelegate copyRandomNumber:]':
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:45: error: '_numberField' undeclared (first use in this function)
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m: At top level:
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:50: warning: property 'window' requires method '-window' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:50: warning: property 'window' requires the method 'setWindow:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@75"Compile /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391163971#391163971#0(2803"In file included from /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:9:/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h:14: error: expected a property attribute before 'weak'/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h:15: error: expected a property attribute before 'weak'/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h:16: error: expected a property attribute before 'weak'/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h:17: error: expected a property attribute before 'weak'/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:14: error: no declaration of property 'lowestNumber' found in the interface/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:15: error: no declaration of property 'highestNumber' found in the interface/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:16: error: no declaration of property 'textField' found in the interface/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:17: error: no declaration of property 'numberField' found in the interface/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m: In function '-[RandomAppDelegate generate:]':/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:27: error: '_highestNumber' undeclared (first use in this function)/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:27: error: (Each undeclared identifier is reported only once/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:27: error: for each function it appears in.)/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:28: error: '_lowestNumber' undeclared (first use in this function)/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:36: error: '_textField' undeclared (first use in this function)/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:38: error: '_numberField' undeclared (first use in this function)/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m: In function '-[RandomAppDelegate copyRandomNumber:]':/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:45: error: '_numberField' undeclared (first use in this function)/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m: At top level:/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:50: warning: property 'window' requires method '-window' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m:50: warning: property 'window' requires the method 'setWindow:' to be defined - use @synthesize, @dynamic or provide a method implementation16(4@43"Expected a property attribute before 'weak'391163971#93#123#2(7@89"In file included from /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391163971#18446744073709551615#0#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#9#0#9#0#0"0(13@114"Expected a property attribute before 'weak' in /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h391163971#18446744073709551615#0#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h391135936#14#0#14#0#0"0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h391135936#14#0#14#0#19"expected * before *0(4@43"Expected a property attribute before 'weak'391163971#216#123#2(7@89"In file included from /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391163971#18446744073709551615#0#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#9#0#9#0#0"0(13@114"Expected a property attribute before 'weak' in /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h391163971#18446744073709551615#0#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h391135936#15#0#15#0#0"0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h391135936#15#0#15#0#19"expected * before *0(4@43"Expected a property attribute before 'weak'391163971#339#123#2(7@89"In file included from /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391163971#18446744073709551615#0#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#9#0#9#0#0"0(13@114"Expected a property attribute before 'weak' in /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h391163971#18446744073709551615#0#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h391135936#16#0#16#0#0"0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h391135936#16#0#16#0#19"expected * before *0(4@43"Expected a property attribute before 'weak'391163971#462#123#2(7@89"In file included from /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391163971#18446744073709551615#0#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#9#0#9#0#0"0(13@114"Expected a property attribute before 'weak' in /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h391163971#18446744073709551615#0#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h391135936#17#0#17#0#0"0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.h391135936#17#0#17#0#19"expected * before *0(4@64"No declaration of property 'lowestNumber' found in the interface391163971#585#144#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#14#0#14#0#0"0(4@65"No declaration of property 'highestNumber' found in the interface391163971#729#145#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#15#0#15#0#0"0(4@61"No declaration of property 'textField' found in the interface391163971#874#141#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#16#0#16#0#0"0(4@63"No declaration of property 'numberField' found in the interface391163971#1015#143#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#17#0#17#0#0"0(4@56"'_highestNumber' undeclared (first use in this function)391163971#1273#136#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#27#0#27#0#43"'*' undeclared (first use in this function)0(4@55"'_lowestNumber' undeclared (first use in this function)391163971#1651#135#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#28#0#28#0#43"'*' undeclared (first use in this function)0(4@52"'_textField' undeclared (first use in this function)391163971#1786#132#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#36#0#36#0#43"'*' undeclared (first use in this function)0(4@54"'_numberField' undeclared (first use in this function)391163971#1918#134#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#38#0#38#0#43"'*' undeclared (first use in this function)0(4@54"'_numberField' undeclared (first use in this function)391163971#2175#134#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#45#0#45#0#43"'*' undeclared (first use in this function)0(23@13"At top level:391163971#2309#83#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#0#0#0#0#0"0(22@120"Property 'window' requires method '-window' to be defined - use @synthesize, @dynamic or provide a method implementation391163971#2392#202#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#50#0#50#0#0"0(22@127"Property 'window' requires the method 'setWindow:' to be defined - use @synthesize, @dynamic or provide a method implementation391163971#2594#209#0(6@67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m391135985#50#0#50#0#0"0(0#0#67"/Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m4317974528#1552"    cd /Users/raccoony/work/cocoa_Random/Random    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Random-generated-files.hmap -I/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Random-own-target-headers.hmap -I/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Random-all-target-headers.hmap -iquote /Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Random-project-headers.hmap -F/Users/raccoony/work/cocoa_Random/Random/build/Release -I/Users/raccoony/work/cocoa_Random/Random/build/Release/include -I/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/DerivedSources/x86_64 -I/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/DerivedSources -include /var/folders/7d/fngkm7xj5zl72pb182v27zs00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Random-Prefix-acrbroxtbirsarfqolchpvadeckx/Random-Prefix.pch -c /Users/raccoony/work/cocoa_Random/Random/Random/RandomAppDelegate.m -o /Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Objects-normal/x86_64/RandomAppDelegate.o1#
+
+CCompileC build/Random.build/Release/Random.build/Objects-normal/x86_64/main.o /Users/raccoony/work/cocoa_Random/Random/Random/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s391163971.586490
+e391163971.822642
+r1
+xCompileC
+xbuild/Random.build/Release/Random.build/Objects-normal/x86_64/main.o
+x/Users/raccoony/work/cocoa_Random/Random/Random/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/raccoony/work/cocoa_Random/Random/Random/main.m391163971#391163971#0(0"0(0#0#54"/Users/raccoony/work/cocoa_Random/Random/Random/main.m4317974528#1526"    cd /Users/raccoony/work/cocoa_Random/Random    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Random-generated-files.hmap -I/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Random-own-target-headers.hmap -I/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Random-all-target-headers.hmap -iquote /Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Random-project-headers.hmap -F/Users/raccoony/work/cocoa_Random/Random/build/Release -I/Users/raccoony/work/cocoa_Random/Random/build/Release/include -I/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/DerivedSources/x86_64 -I/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/DerivedSources -include /var/folders/7d/fngkm7xj5zl72pb182v27zs00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Random-Prefix-acrbroxtbirsarfqolchpvadeckx/Random-Prefix.pch -c /Users/raccoony/work/cocoa_Random/Random/Random/main.m -o /Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/MainMenu.xib
+s391163971.824350
+e391163972.116143
+r0
+xCompileXIB
+x/Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/MainMenu.xib
+o2013-05-25 17:39:32.106 ibtool[13912:f07] Exception raised while decoding document objects - Could not instantiate class named IBNSLayoutConstraint
+o/* com.apple.ibtool.errors */
+o/Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/MainMenu.xib: error: The document "MainMenu.xib" could not be opened. An instance of IBNSLayoutConstraint could not be decoded.
+o    Recovery Suggestion: Ensure all plug-ins used to create this document have been loaded.
+lSLF07#2@39"CompileXIB Random/en.lproj/MainMenu.xib391163971#391163972#0(455"2013-05-25 17:39:32.106 ibtool[13912:f07] Exception raised while decoding document objects - Could not instantiate class named IBNSLayoutConstraint/* com.apple.ibtool.errors *//Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/MainMenu.xib: error: The document "MainMenu.xib" could not be opened. An instance of IBNSLayoutConstraint could not be decoded.    Recovery Suggestion: Ensure all plug-ins used to create this document have been loaded.1(4@106"The document "MainMenu.xib" could not be opened. An instance of IBNSLayoutConstraint could not be decoded.391163972#18446744073709551615#0#0(6@69"/Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/MainMenu.xib391163856#0#0#0#0#0"0(0#0#69"/Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/MainMenu.xib4317974528#368"    cd /Users/raccoony/work/cocoa_Random/Random    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Resources/en.lproj/MainMenu.nib /Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk1#
+
+CCopyStringsFile /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Resources/en.lproj/InfoPlist.strings Random/en.lproj/InfoPlist.strings
+s391163971.822746
+e391163972.052027
+r1
+xCopyStringsFile
+x/Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Resources/en.lproj/InfoPlist.strings
+xRandom/en.lproj/InfoPlist.strings
+lSLF07#2@38"Copy Random/en.lproj/InfoPlist.strings391163971#391163972#0(0"0(0#0#74"/Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/InfoPlist.strings4317974528#367"    cd /Users/raccoony/work/cocoa_Random/Random    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 Random/en.lproj/InfoPlist.strings --outdir /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Resources/en.lproj0#
+
+CCpResource build/Release/Random.app/Contents/Resources/en.lproj/Credits.rtf Random/en.lproj/Credits.rtf
+s391163971.823728
+e391163971.854565
+r1
+xCpResource
+xbuild/Release/Random.app/Contents/Resources/en.lproj/Credits.rtf
+xRandom/en.lproj/Credits.rtf
+lSLF07#2@32"Copy Random/en.lproj/Credits.rtf391163971#391163971#0(0"0(0#0#68"/Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/Credits.rtf4317974528#394"    cd /Users/raccoony/work/cocoa_Random/Random    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Users/raccoony/work/cocoa_Random/Random/Random/en.lproj/Credits.rtf /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Resources/en.lproj0#
+
+CGenerateDSYMFile /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app.dSYM /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/MacOS/Random
+r0
+
+CLd /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/MacOS/Random normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Info.plist Random/Random-Info.plist
+s391163968.764026
+e391163968.777770
+r1
+xProcessInfoPlistFile
+x/Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Info.plist
+xRandom/Random-Info.plist
+lSLF07#2@32"Process Random/Random-Info.plist391163968#391163968#0(0"0(0#0#65"/Users/raccoony/work/cocoa_Random/Random/Random/Random-Info.plist17206272256#324"    cd /Users/raccoony/work/cocoa_Random/Random    builtin-infoPlistUtility Random/Random-Info.plist -genpkginfo /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/7d/fngkm7xj5zl72pb182v27zs00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Random-Prefix-acrbroxtbirsarfqolchpvadeckx/Random-Prefix.pch.gch Random/Random-Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s391163968.777915
+e391163971.586343
+r1
+xProcessPCH
+x/var/folders/7d/fngkm7xj5zl72pb182v27zs00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Random-Prefix-acrbroxtbirsarfqolchpvadeckx/Random-Prefix.pch.gch
+xRandom/Random-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile Random/Random-Prefix.pch391163968#391163971#0(0"0(0#0#65"/Users/raccoony/work/cocoa_Random/Random/Random/Random-Prefix.pch4317974528#1429"    cd /Users/raccoony/work/cocoa_Random/Random    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Random-generated-files.hmap -I/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Random-own-target-headers.hmap -I/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Random-all-target-headers.hmap -iquote /Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/Random-project-headers.hmap -F/Users/raccoony/work/cocoa_Random/Random/build/Release -I/Users/raccoony/work/cocoa_Random/Random/build/Release/include -I/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/DerivedSources/x86_64 -I/Users/raccoony/work/cocoa_Random/Random/build/Random.build/Release/Random.build/DerivedSources -c /Users/raccoony/work/cocoa_Random/Random/Random/Random-Prefix.pch -o /var/folders/7d/fngkm7xj5zl72pb182v27zs00000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Random-Prefix-acrbroxtbirsarfqolchpvadeckx/Random-Prefix.pch.gch0#
+
+CTouch /Users/raccoony/work/cocoa_Random/Random/build/Release/Random.app
+r0
+
